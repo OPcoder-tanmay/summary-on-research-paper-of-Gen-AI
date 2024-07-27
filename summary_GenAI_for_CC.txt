@@ -1,0 +1,22 @@
+Keywords:
+CLOUD, DATA, RESOURCE, Cloud Computing, ALGORITHM, MODEL, GENERATIVE, ALLOCATION, scheduling algorithms, cloud services
+
+Researchers:
+Implementation of Generative AI in Resource Management of Cloud Computing  Dr. Pratik kamal Agrawal, Vinay Mowade, Tanmay Wargantiwar, Yash Chandekar Computer Science and Engineering Symbiosis Institute of Technology Nagpur, India. 
+
+Abstract- Cloud computing has emerged as a dominant paradigm for delivering computing resources and services over the internet:
+
+In this context, scheduling algorithms play a critical role in optimizing resource utilization and system performance.
+This paper provides an in-depth analysis of various scheduling algorithms used in cloud computing environments.
+Furthermore, we examine the challenges and future directions in scheduling algorithms for cloud computing, considering the evolving landscape of cloud services and applications.
+
+This comprehensive analysis provides valuable insights for system designers, cloud service providers, and researchers to enhance the efficiency and effectiveness of cloud computing environments through informed scheduling decisions. 
+
+Keywords- Cloud computing, Scheduling algorithms, Resource allocation, Task scheduling, CPU scheduling, Virtual machine scheduling, Optimization, Performance, Response time, Throughput, Fairness, First Come First Serve (FCFS), Shortest Job First (SJF), Round Robin (RR), Multilevel Feedback Queue, Shortest Remaining Time First (SRTF), Preemptive scheduling, non-preemptive scheduling, Scalability.
+
+Introduction -
+
+As anybody can know is that AI is extending at a fairly express speed, and it has been like that for quite a while already.
+
+In the further reading of this article, we are going to try to explain what integration of Generative AI and cloud infrastructure is, and how it progresses industries and innovations. This can be illustrated when the organizations embrace the use of cloud computing, app modernization as well as utilize artificial intelligence to enhance organizational improvements and development (2017), Dynamic Resource Prediction and Allocation for Cloud Data Center using the multi-objective genetic algorithm. The Algorithm used in this research predicts the resource requirement of the next time slot based on historical data in previous time slots and a VM allocation algorithm is implemented to allocate Virtual Machines for the next time slot. Their implemented method combines both prediction and VM allocation approaches Because the Genetic Algorithm is computationally intensive, It requires high energy consumption. Mahala (2015) Auto-scaling threshold-based approach for web application in cloud computing environment The author utilised automata for scalability in the cloud SLA Violations were considered in the evaluation Threshold based approaches can result in resource mismanagement. This algorithm is responsible for VM allocation prediction based on a machine learning model. The methodology takes into consideration the priority of an application based on its compute, memory, and bandwidth requirement The authors used a Small Data set and this could be insufficient for accurate results. (GANs) This paper aimed at exploring the integration of GANs coupled with resource management within cloud computing systems which was done systematically. It was previously decided to integrate GANs into cloud resource management, thus a model architecture was developed. Special attention was paid to the task of adapting the resource provisioning during the model construction while considering the nature of PaaS cloud workloads.
+
